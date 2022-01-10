@@ -1,4 +1,4 @@
-import Task from "./Task";
+import Task from "../molecules/Task";
 const Tasks = ({ tasks, onDelete, onToggle }) => {
   return (
     <div>
